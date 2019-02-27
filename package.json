@@ -1,0 +1,19 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "1.8",
+    "errorhandler": "*",
+    "express": "^4.14.1",
+    "method-override": "*",
+    "mongoose": "^5.4.16",
+    "multer": "1.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
